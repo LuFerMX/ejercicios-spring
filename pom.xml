@@ -22,7 +22,12 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
-            <version>3.0.5.RELEASE</version>
+            <version>4.2.0.RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>4.2.0.RELEASE</version> <!-- 3.0.5.RELEASE - 4.2.0.RELEASE -->
         </dependency>
         <dependency>
             <groupId>junit</groupId>
